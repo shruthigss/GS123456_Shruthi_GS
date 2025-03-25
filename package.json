@@ -1,0 +1,13 @@
+{
+  "name": "metrics-vision-explorer",
+  "version": "1.0.0",
+  "description": "A front-end web application built using React.js and Redux for state management. The application allows users to interact with Data",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
