@@ -2,7 +2,7 @@
 
 A front-end web application built using React.js and Redux for state management. The application allows users to interact with Data
 
-# 📊 Metrics Vision Explorer
+# 📊 Data Viewer
 
 **Metrics Vision Explorer** is an interactive data visualization platform that allows users to explore and analyze data in a meaningful and intuitive way. It is designed to handle multiple datasets, offering comprehensive visual reports for better decision-making.
 
